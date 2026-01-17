@@ -11,7 +11,9 @@ import SwiftUI
 struct CencoMoviesSWUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchView()
+            //HomeView()
+            //ContentView()
         }
     }
 }
